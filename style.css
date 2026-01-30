@@ -22,8 +22,51 @@ body {
     line-height: 1.6;
     color: #333; /* Ajutez avec votre couleur de texte principale */
     background-color: #f9f9f9; /* Ajutez avec votre couleur de fond principale */
+    display: inline-block;
 }
 
 /* ========================================
    VOTRE CODE CSS ICI
    ======================================== */
+
+
+.prix {
+  color: #FF6042;
+  display: inline;
+  float: right;
+  padding: 20px;
+}
+
+.plat {
+  font-weight: bold;
+  display: inline;
+  padding: 20px;
+}
+
+h2 {
+  text-align: center;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.ingredients {
+  padding-bottom: 0.5rem;
+  padding: 20px;
+}
+
+section {
+  background-color: #757171;
+  max-width: 800px;
+  width: 32rem;
+}
+
+li {
+  list-style: none;
+}
+
+h1 {
+  text-align: center;
+}
+
+.entrer {
+}
