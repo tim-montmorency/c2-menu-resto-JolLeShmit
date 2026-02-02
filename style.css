@@ -17,11 +17,10 @@
 }
 
 body {
-    font-family: 'Arial', sans-serif; /* Changez pour votre choix de police de caractères de Google Fonts*/
     font-size: 1rem;
     line-height: 1.6;
-    color: #000000; /* Ajutez avec votre couleur de texte principale */
-    background-color: #f9f9f9; /* Ajutez avec votre couleur de fond principale */
+    color: #000000; 
+    background-color: #f9f9f9; 
     margin: 0;
     padding: 0;
     font-family: "Playwrite IE", sans-serif;
@@ -110,4 +109,9 @@ img {
   border-bottom: none;
   max-width: 800px;
   width: 32rem;
+}
+
+
+.desserts {
+  margin-bottom: 2vh;
 }
