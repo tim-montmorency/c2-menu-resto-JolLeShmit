@@ -25,6 +25,11 @@ body {
     margin: 0;
     padding: 0;
     font-family: "Playwrite IE", sans-serif;
+    max-width: 800px;
+    width: 32rem;
+    box-shadow: 19px 19px 31px #5a5a5a;
+    margin: 0 auto;
+
 }
 
 /* ========================================
